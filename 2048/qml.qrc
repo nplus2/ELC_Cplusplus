@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Grille.qml</file>
+        <file>MaGrille.qml</file>
+        <file>MaTuile2.qml</file>
+        <file>TuileModel.qml</file>
+    </qresource>
+</RCC>
